@@ -1,0 +1,8 @@
+{
+  "name": "Remix: QCT数据提取与PDD销售统计工具",
+  "description": "专业的拼多多（PDD）销售数据统计与直通车（QCT）推广花费提取工具，支持表格文件批量解析、自动关联商品信息、智能财务流水核对与多维度ROI分析可视化。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
